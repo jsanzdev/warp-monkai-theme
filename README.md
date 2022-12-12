@@ -2,7 +2,7 @@
  Monokai Theme for the Warp Terminal
 
  ### Screenshot
-
+![Screenshot](https://raw.githubusercontent.com/jsanzdev/warp-monokai-theme/main/warp-monokai-pro-screenshot.png?raw=true)
 
  # Installation
 
